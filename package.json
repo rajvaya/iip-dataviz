@@ -1,0 +1,12 @@
+{
+  "name": "iip-dataviz",
+  "version": "1.0.0",
+  "description": "This is Repo For AI-Powered Data Storytelling Course by India in Pixels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
