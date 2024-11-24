@@ -3,3 +3,4 @@ week1/watch-history.json
 *.csv
 .env
 .DS_Store
+!monthly_top5_analysis.csv
