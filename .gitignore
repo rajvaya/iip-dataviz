@@ -1,1 +1,5 @@
 week1/watch-history.json
+*.json
+*.csv
+.env
+.DS_Store
